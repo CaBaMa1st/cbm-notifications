@@ -14,6 +14,7 @@
 - Si encontrais fallos, escribirme al md // CaBaMa™#5329
 
 ### Requirements | Requerimientos
+- ESX
 - Añadir 3 lineas de codigo al es_extended/client/functions.lua // reemplazando la funcion de ESX.ShowHelpNotification
 - Codigo:
     ESX.ShowHelpNotification = function(text)
