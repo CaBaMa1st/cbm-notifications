@@ -17,7 +17,7 @@
 - ESX
 - Añadir 3 lineas de codigo al es_extended/client/functions.lua // reemplazando la funcion de ESX.ShowHelpNotification
 - Codigo:
-    ESX.ShowHelpNotification = function(text)
-        return exports["cabama_help"]:showHelp(text)
+    ESX.ShowNotification = function(msg)
+	    TriggerEvent('cbm_notifications:Notification', msg, title)
     end
 
