@@ -11,7 +11,7 @@
 - Vista previa | Preview : https://streamable.com/woxj84
 
 ### Fallos
-- Si encontrais fallos, escribirme al md // CaBaMa™#5329
+- Si encontrais fallos, o necesitais ayuda // discord: CaBaMa™#5329
 
 ### Requirements | Requerimientos
 - ESX
