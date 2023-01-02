@@ -3,6 +3,7 @@
 - Vista previa | Preview : [image/imagen](https://cdn.discordapp.com/attachments/955063452026691584/1059552627706298428/image.png)
 - Facil de Editar
 - UI Moderna
+- UI Facil de editar
 
 ### Creditos
 
